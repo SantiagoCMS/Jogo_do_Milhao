@@ -1,5 +1,5 @@
 import pygame
-from button import Button
+from tela_Login_Inicial.button import Button
 
 # Main menu screen logic
 class MainMenu:

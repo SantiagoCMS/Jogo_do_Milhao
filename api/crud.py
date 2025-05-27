@@ -25,6 +25,12 @@ class CRUDUsuario:
     
     def buscar_usuario_por_id(self, db: Session, id_usuario: str):
         return db.query(Usuario).filter(Usuario.idUsuario == id_usuario).first()
+    
+    def verificar_login(self, db: Session, usuario: str, senha: str):
+        db_usuario = db.query(Usuario).filter(Usuario.nomeUsuario == usuario).first()
+        if db_usuario and db_usuario.senha == senha:
+            return db_usuario
+        return None
 
 
 # ---- CRUD TIPO USUÁRIO ----

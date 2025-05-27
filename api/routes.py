@@ -25,6 +25,13 @@ class UsuarioRoutes:
                 raise HTTPException(status_code=404, detail="Usuário não encontrado")
             return db_usuario
         
+        @router.post("/usuarios/login")
+        def login(usuario_login: UsuarioLogin, db: Session = Depends(get_db)):
+            usuario_autenticado = self.crud.verificar_login(db, usuario_login.nomeUsuario, usuario_login.senhaUsuario)
+            if usuario_autenticado is None:
+                raise HTTPException(status_code=401, detail="Usuário ou senha inválidos")
+            return usuario_autenticado
+        
 
 # ---- ROTAS TIPO USUÁRIO ----
 

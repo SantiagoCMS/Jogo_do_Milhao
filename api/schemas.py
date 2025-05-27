@@ -20,6 +20,9 @@ class UsuarioCreate(UsuarioBase):
 class UsuarioResponse(UsuarioBase):    # Dados retornados ao consultar usuário (GET) - omite a senha por segurança
     idUsuario: str
 
+class UsuarioLogin(BaseModel):    # Dados necessários para login (POST)
+    nomeUsuario: str = Field(..., max_length=60)    # Nome de usuário
+
     class Config:
         from_attributes = True    # Permite conversão automática de modelos SQLAlchemy → Pydantic
 

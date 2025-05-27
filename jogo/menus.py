@@ -1,5 +1,5 @@
 import pygame
-from button import Button
+from jogo.button import Button
 
 # Tela do menu principal
 class MainMenu:

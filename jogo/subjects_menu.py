@@ -1,6 +1,6 @@
 import pygame
-from button import Button
-from ranking_screen import RankingScreen
+from jogo.button import Button
+from jogo.ranking_screen import RankingScreen
 
 class SubjectsMenu:
     """

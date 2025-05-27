@@ -1,5 +1,5 @@
 import pygame
-from button import Button
+from jogo.button import Button
 
 class Assets:
     # Manages loading/scaling of game assets

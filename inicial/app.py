@@ -2,7 +2,7 @@ import customtkinter as ctk
 from PIL import Image
 import os
 import json
-from game.game import Game
+from jogo.game import Game
 
 class LoginApp(ctk.CTk):
     def __init__(self):

@@ -1,6 +1,6 @@
 import mysql.connector
 from mysql.connector import Error
-from tela_Login_Inicial.credenciais import host, user, database, password
+from inicial.credenciais import host, user, database, password
 
 class Database:
     def __init__(self):

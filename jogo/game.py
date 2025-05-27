@@ -1,8 +1,8 @@
 import pygame
-from menus import MainMenu, OptionsMenu
-from assets import Assets
-from subjects_menu import SubjectsMenu
-from game_screen import GameScreen
+from jogo.menus import MainMenu, OptionsMenu
+from jogo.assets import Assets
+from jogo.subjects_menu import SubjectsMenu
+from jogo.game_screen import GameScreen
 
 class Game:
     """Controlador principal do jogo (inicializa Pygame, menus e gerencia a troca de telas)."""

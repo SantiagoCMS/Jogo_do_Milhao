@@ -8,7 +8,7 @@ class LoginApp(ctk.CTk):
     def __init__(self):
         super().__init__()
         self.title("Jogo do Milhão - Login")
-        self.geometry("700x650")  
+        self.geometry("700x650")
         self.resizable(False, False)
         self.fg_color = "#F5F5DC"
         self.configure(fg_color=self.fg_color)
@@ -95,7 +95,7 @@ class LoginApp(ctk.CTk):
     def abrir_cadastro(self):
         janela_cadastro = ctk.CTkToplevel(self)
         janela_cadastro.title("Cadastro de Usuário")
-        janela_cadastro.geometry("600x550")  
+        janela_cadastro.geometry("600x550")
         janela_cadastro.resizable(False, False)
         janela_cadastro.configure(fg_color=self.fg_color)
 

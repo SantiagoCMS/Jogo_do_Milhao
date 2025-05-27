@@ -3,6 +3,7 @@ from jogo.menus import MainMenu, OptionsMenu
 from jogo.assets import Assets
 from jogo.subjects_menu import SubjectsMenu
 from jogo.game_screen import GameScreen
+from jogo.ranking_screen import RankingScreen
 
 class Game:
     """Controlador principal do jogo (inicializa Pygame, menus e gerencia a troca de telas)."""
@@ -25,6 +26,7 @@ class Game:
         self.options_menu = OptionsMenu(self.screen, self.assets)
         self.subjects_menu = SubjectsMenu(self.screen, self.assets)
         self.game_screen = GameScreen(self.screen, self.assets)
+        self.ranking_screen = RankingScreen(self.screen, self.assets)
 
         self.running = True  # Loop principal
 

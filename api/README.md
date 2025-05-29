@@ -26,6 +26,8 @@ questões) ou fazer consultas especificas (buscar questoes por materia e nivel e
 
 1- pip install sqlalchemy
 2- pip install fastapi
+3- pip install pymysql
+4- pip install python-dotenv
 
 ## IMPORTANTE
 

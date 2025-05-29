@@ -22,16 +22,22 @@ questões) ou fazer consultas especificas (buscar questoes por materia e nivel e
 ### 6. `main.py`
 **Função**: Ponto de entrada da API, configuração do FastAPI
 
-## Installs Necessários
-
-1- pip install sqlalchemy
-2- pip install fastapi
-3- pip install pymysql
-4- pip install python-dotenv
 
 ## IMPORTANTE
 
-1- Para o funcionamento da API e a conexão correta com o BD insira a senha real 
-na URL do arquivo database.py
-
 2- Comando de teste para rodar API: uvicorn api.main:app --reload
+
+
+## 🚀 Como rodar localmente
+
+1. **Clone o repositório:**
+
+git clone https://github.com/seu-usuario/seu-repo.git
+
+2. **Criar e editar arquivo .env:**
+
+Ver modelo de arquivo .env em .env.example
+
+3. **Install das bibliotecas:**
+
+Instalar as bibliotecas necessarias rodando comando: pip install -r requirements.txt

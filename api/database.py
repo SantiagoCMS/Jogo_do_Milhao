@@ -1,9 +1,13 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base
 from sqlalchemy.orm import sessionmaker
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Carrega variáveis de ambiente do arquivo .env
 
 # Conexão com o banco de dados propriamente dita a partir da URL
-DATABASE_URL = "mysql+pymysql://avnadmin:SENHA_DB@mentemilionaria-santiago-6fa1.h.aivencloud.com:14266/defaultdb?ssl_ca=./ca-cert.pem"
+DATABASE_URL = os.getenv("DATABASE_URL")
 
 # "Engine" gerencia conexões com o banco de dados
 engine = create_engine(

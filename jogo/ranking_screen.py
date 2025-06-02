@@ -9,13 +9,13 @@ class RankingScreen:
         self.small_font = assets.small_font
         self.medium_font = assets.font
         self.large_font = assets.large_font
-        self.file_path = "ranking_data.json"
+        self.file_path = "jogo/ranking_data.json"
         self.running = True
         self.bg_image = pygame.image.load("images/background.png").convert()
         self.bg_image = pygame.transform.scale(self.bg_image, self.screen.get_size())
 
         self.botao_voltar_img = self.assets.back_img
-        self.botao_voltar_rect = self.botao_voltar_img.get_rect(topleft=(20, self.screen.get_height() - 70))
+        self.botao_voltar_rect = self.botao_voltar_img.get_rect(topleft=(10, self.screen.get_height() - 70))
 
         self.load_ranking()
 
@@ -41,7 +41,7 @@ class RankingScreen:
         # Exibir ranking
         sorted_ranking = sorted(self.ranking_data.items(), key=lambda x: x[1], reverse=True)
         for i, (user, score) in enumerate(sorted_ranking):
-            text = f"{i+1}. {user}: R$ {score:,.0f}".replace(",", ".")
+            text = f"{i+1}. {user}: P$ {score:,.0f}".replace(",", ".")
             score_surface = self.small_font.render(text, True, (255, 50, 94))
             self.screen.blit(score_surface, (100, 120 + i * 40))
 
@@ -59,11 +59,8 @@ class RankingScreen:
                     self.running = False
                     pygame.quit()
                     exit()
-                elif event.type == pygame.MOUSEBUTTONDOWN:
+                elif event.type == pygame.MOUSEBUTTONUP:
                     if self.botao_voltar_rect.collidepoint(event.pos):
                         self.assets.click_sound.play()
                         self.running = False
                         return "subjects_menu"
-                elif event.type == pygame.KEYDOWN:
-                    self.running = False
-                    return "subjects_menu"

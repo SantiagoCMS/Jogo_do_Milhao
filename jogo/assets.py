@@ -47,14 +47,15 @@ class Assets:
         self.botao_pular2_img = self.load_scaled("images/botao_pular2.png", width=180, height=80)
         self.botao_pular3_img = self.load_scaled("images/botao_pular3.png", width=180, height=80)
         self.jogar_img = self.load_scaled("images/botao_jogar.png")
-        self.answer_a_img = self.load_scaled("images/answer_a.png", width=445, height=77)
-        self.answer_b_img = self.load_scaled("images/answer_b.png", width=445, height=77)
-        self.answer_c_img = self.load_scaled("images/answer_c.png", width=445, height=77)
-        self.answer_d_img = self.load_scaled("images/answer_d.png", width=445, height=77)
-        self.question_box_img = self.load_scaled("images/question_box.png", width=968, height=156)
-        self.tip_box_img = self.load_scaled("images/tip_box.png", width=518, height=346)
+        self.answer_a_img = self.load_scaled("images/answer_a.png", width=516, height=80)
+        self.answer_b_img = self.load_scaled("images/answer_b.png", width=516, height=80)
+        self.answer_c_img = self.load_scaled("images/answer_c.png", width=516, height=80)
+        self.answer_d_img = self.load_scaled("images/answer_d.png", width=516, height=80)
+        self.question_box_img = self.load_scaled("images/question_box.png", width=968, height=214)
+        self.tip_box_img = self.load_scaled("images/tip_box.png", width=461, height=346)
         self.checkbox_on = self.load_scaled("images/checkbox_on.png", width=50, height=50)
         self.checkbox_off = self.load_scaled("images/checkbox_off.png", width=50, height=50)
+        self.parabens_img = pygame.image.load("images/parabens.png").convert()
 
     def load_sounds(self):
         # Load music and sound effects
@@ -69,6 +70,7 @@ class Assets:
         self.small_font = pygame.font.Font("assets/Font.ttf", 24)
         self.medium_font = pygame.font.Font("assets/Font.ttf", 36)
         self.large_font = pygame.font.Font("assets/Font.ttf", 48)
+        self.answer_font = pygame.font.Font("assets/Font.ttf", 16)
 
     def load_scaled(self, path, width=None, height=None, scale=None):
         # Load image and scale (proportional or fixed)

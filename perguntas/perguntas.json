@@ -1,0 +1,2187 @@
+[
+  {
+    "text": "Quanto é 12 × 8?",
+    "answers": { "A": "90", "B": "96", "C": "104", "D": "100" },
+    "correct_answer": "B",
+    "tip": "Use decomposição: 12 × 8 = (10 × 8) + (2 × 8)",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Se um número dividido por 4 resulta em 9, qual é esse número?",
+    "answers": { "A": "36", "B": "40", "C": "45", "D": "48" },
+    "correct_answer": "A",
+    "tip": "Multiplique o resultado (9) por 4.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é o valor de x na equação: x + 17 = 42?",
+    "answers": { "A": "15", "B": "25", "C": "30", "D": "35" },
+    "correct_answer": "B",
+    "tip": "Subtraia 17 de 42 para isolar o x.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "O triplo de um número é 21. Qual é esse número?",
+    "answers": { "A": "6", "B": "7", "C": "8", "D": "9" },
+    "correct_answer": "B",
+    "tip": "Divida 21 por 3.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Quantos segundos há em 2 minutos e meio?",
+    "answers": { "A": "120", "B": "130", "C": "150", "D": "180" },
+    "correct_answer": "C",
+    "tip": "2 minutos = 120s + 30s = 150s",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é a área de um quadrado de lado 7 cm?",
+    "answers": { "A": "49 cm²", "B": "14 cm²", "C": "28 cm²", "D": "56 cm²" },
+    "correct_answer": "A",
+    "tip": "Área de quadrado = lado × lado.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Um pacote com 12 balas é dividido entre 4 crianças. Quantas balas cada uma recebe?",
+    "answers": { "A": "2", "B": "3", "C": "4", "D": "5" },
+    "correct_answer": "B",
+    "tip": "Divida o total de balas pelo número de crianças.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é o número que falta na sequência: 5, 10, 15, __, 25?",
+    "answers": { "A": "18", "B": "20", "C": "22", "D": "30" },
+    "correct_answer": "B",
+    "tip": "É uma PA de razão 5.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual fração equivale a 0,5?",
+    "answers": { "A": "1/3", "B": "1/4", "C": "2/4", "D": "1/2" },
+    "correct_answer": "D",
+    "tip": "Transforme decimal para fração: 0,5 = 5/10 = 1/2",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Quantos lados tem um octógono?",
+    "answers": { "A": "6", "B": "7", "C": "8", "D": "9" },
+    "correct_answer": "C",
+    "tip": "“Octo” vem do latim e significa “oito”.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é a mediana dos números: 3, 5, 7, 8, 10?",
+    "answers": { "A": "5", "B": "6", "C": "7", "D": "8" },
+    "correct_answer": "C",
+    "tip": "A mediana é o número do meio em uma lista ordenada.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é o maior número primo menor que 20?",
+    "answers": { "A": "17", "B": "18", "C": "19", "D": "20" },
+    "correct_answer": "C",
+    "tip": "Número primo tem apenas dois divisores: 1 e ele mesmo.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Quanto é 3² + 4²?",
+    "answers": { "A": "25", "B": "16", "C": "20", "D": "30" },
+    "correct_answer": "A",
+    "tip": "3² = 9 e 4² = 16 → 9 + 16 = 25",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Se um retângulo tem lados de 8 cm e 3 cm, qual é seu perímetro?",
+    "answers": { "A": "11 cm", "B": "24 cm", "C": "22 cm", "D": "16 cm" },
+    "correct_answer": "C",
+    "tip": "Perímetro = 2 × (base + altura)",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual número falta na multiplicação: __ × 7 = 56?",
+    "answers": { "A": "6", "B": "7", "C": "8", "D": "9" },
+    "correct_answer": "C",
+    "tip": "Inverso da multiplicação é a divisão: 56 ÷ 7",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual a fração equivalente a 3/4?",
+    "answers": { "A": "6/8", "B": "5/6", "C": "2/3", "D": "9/12" },
+    "correct_answer": "A",
+    "tip": "Multiplique numerador e denominador por 2.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é o valor de 10% de 250?",
+    "answers": { "A": "25", "B": "20", "C": "30", "D": "15" },
+    "correct_answer": "A",
+    "tip": "10% = dividir por 10.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Se João tem R$ 60 e gasta 1/3, quanto sobra?",
+    "answers": { "A": "R$ 20", "B": "R$ 30", "C": "R$ 40", "D": "R$ 50" },
+    "correct_answer": "C",
+    "tip": "⅓ de 60 = 20 → 60 - 20 = 40",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é o MMC entre 6 e 8?",
+    "answers": { "A": "12", "B": "18", "C": "24", "D": "48" },
+    "correct_answer": "C",
+    "tip": "Use o método da decomposição em fatores primos.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Quantos vértices tem um cubo?",
+    "answers": { "A": "6", "B": "8", "C": "12", "D": "10" },
+    "correct_answer": "B",
+    "tip": "Imagine um dado. Cada canto é um vértice.",
+    "subject": "matematica",
+    "level": "fundamental"
+  },
+  {
+    "text": "Resolva a equação log(x² - 5x + 6) = 0.",
+    "answers": {
+      "A": "x = 2",
+      "B": "x = 3",
+      "C": "x = 2 ou 3",
+      "D": "x = 1 ou 6"
+    },
+    "correct_answer": "C",
+    "tip": "A equação equivale a log(1), pois 10⁰ = 1. Resolva x² - 5x + 6 = 1.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Em uma PA de 10 termos, o primeiro termo é 3 e o último é 30. Qual é a razão?",
+    "answers": { "A": "2", "B": "3", "C": "4", "D": "5" },
+    "correct_answer": "A",
+    "tip": "Use a fórmula do termo geral da PA: aₙ = a₁ + (n - 1)r.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Se f(x) = √(x + 2), qual o domínio da função?",
+    "answers": { "A": "x > -2", "B": "x ≥ -2", "C": "x ≤ -2", "D": "x ∈ ℝ" },
+    "correct_answer": "B",
+    "tip": "O radicando de uma raiz quadrada deve ser maior ou igual a zero.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "O gráfico de uma função quadrática f(x) = ax² + bx + c corta o eixo x nos pontos 2 e -3. O valor de a é 1. Qual é a função?",
+    "answers": {
+      "A": "f(x) = x² + x - 6",
+      "B": "f(x) = x² + x + 6",
+      "C": "f(x) = x² - x - 6",
+      "D": "f(x) = x² - x + 6"
+    },
+    "correct_answer": "A",
+    "tip": "Use fatoração com raízes conhecidas: (x - 2)(x + 3).",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Se logₐ(27) = 3, qual o valor de a?",
+    "answers": { "A": "3", "B": "9", "C": "27", "D": "3√3" },
+    "correct_answer": "A",
+    "tip": "Transforme para a³ = 27. A raiz cúbica de 27 é 3.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "A área da base de um cilindro é 25π cm² e sua altura é 10 cm. Qual seu volume?",
+    "answers": { "A": "250π", "B": "125π", "C": "100π", "D": "225π" },
+    "correct_answer": "A",
+    "tip": "Volume do cilindro = área da base × altura.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Considere a função f(x) = x³ - 3x. Qual o conjunto das raízes reais?",
+    "answers": {
+      "A": "{-√3, 0, √3}",
+      "B": "{-1, 0, 1}",
+      "C": "{-3, 0, 3}",
+      "D": "{-1, 1}"
+    },
+    "correct_answer": "A",
+    "tip": "Coloque f(x) em evidência: f(x) = x(x² - 3).",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Determine a imagem da função f(x) = -x² + 4x - 3.",
+    "answers": {
+      "A": "[0, ∞)",
+      "B": "(-∞, 1]",
+      "C": "(-∞, 1)",
+      "D": "(-∞, 4]"
+    },
+    "correct_answer": "B",
+    "tip": "A imagem de uma parábola com concavidade para baixo é limitada superiormente pelo vértice.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "A equação do 2º grau x² - 6x + k = 0 tem raízes iguais. Qual o valor de k?",
+    "answers": { "A": "9", "B": "6", "C": "3", "D": "0" },
+    "correct_answer": "A",
+    "tip": "Use o discriminante: Δ = 0 → b² - 4ac = 0.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Quantos números inteiros existem entre √50 e √200?",
+    "answers": { "A": "8", "B": "9", "C": "10", "D": "11" },
+    "correct_answer": "B",
+    "tip": "Encontre os inteiros entre aproximadamente 7,1 e 14,1.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Em um triângulo retângulo, os catetos medem 6 e 8. Qual a medida da hipotenusa?",
+    "answers": { "A": "10", "B": "12", "C": "√100", "D": "9" },
+    "correct_answer": "A",
+    "tip": "Use o Teorema de Pitágoras: h² = a² + b².",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é a soma das raízes da equação 2x² - 5x + 3 = 0?",
+    "answers": { "A": "5", "B": "3", "C": "2,5", "D": "5/2" },
+    "correct_answer": "D",
+    "tip": "Soma das raízes = -b/a.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "A função exponencial f(x) = 2ˣ é crescente ou decrescente?",
+    "answers": {
+      "A": "Crescente",
+      "B": "Decrescente",
+      "C": "Constante",
+      "D": "Não definida"
+    },
+    "correct_answer": "A",
+    "tip": "Bases maiores que 1 geram funções crescentes.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o período da função f(x) = sen(2x)?",
+    "answers": { "A": "π", "B": "2π", "C": "π/2", "D": "4π" },
+    "correct_answer": "A",
+    "tip": "Período = 2π/|B| para f(x) = sen(Bx).",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é a área do triângulo equilátero de lado 6 cm?",
+    "answers": { "A": "18", "B": "9√3", "C": "6√3", "D": "3√3" },
+    "correct_answer": "B",
+    "tip": "Use a fórmula da área: (l²√3)/4.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Se um polinômio de grau 3 tem três raízes reais e distintas, então seu gráfico...",
+    "answers": {
+      "A": "Corta o eixo x três vezes",
+      "B": "Nunca corta o eixo x",
+      "C": "Toca o eixo x uma vez",
+      "D": "Corta o eixo y três vezes"
+    },
+    "correct_answer": "A",
+    "tip": "Cada raiz real representa uma interseção com o eixo x.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "O valor de det(A), onde A = |2 3| |1 4|, é:",
+    "answers": { "A": "5", "B": "8", "C": "-2", "D": "5" },
+    "correct_answer": "A",
+    "tip": "Det = ad - bc para matriz 2x2.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Qual a equação da parábola com vértice em (2,3) e que passa por (3,4)?",
+    "answers": {
+      "A": "y = (x-2)² + 3",
+      "B": "y = (x-2)² + 1",
+      "C": "y = (x-2)² - 3",
+      "D": "y = (x+2)² + 3"
+    },
+    "correct_answer": "B",
+    "tip": "Use a forma canônica da parábola: y = a(x - xv)² + yv.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o resultado da composição f(g(x)), se f(x) = x² e g(x) = x + 1?",
+    "answers": {
+      "A": "x² + 1",
+      "B": "(x + 1)²",
+      "C": "x + 1²",
+      "D": "x² + 2x + 1"
+    },
+    "correct_answer": "B",
+    "tip": "Substitua g(x) na função f(x).",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Quantos números de 3 algarismos distintos podem ser formados com os algarismos 1, 2, 3, 4, 5?",
+    "answers": { "A": "60", "B": "120", "C": "80", "D": "100" },
+    "correct_answer": "A",
+    "tip": "Permutação simples: P(5,3) = 5 × 4 × 3.",
+    "subject": "matematica",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o sujeito da frase: \"Os meninos brincam no parque\"?",
+    "answers": {
+      "A": "No parque",
+      "B": "Os meninos",
+      "C": "Brincam",
+      "D": "O parque"
+    },
+    "correct_answer": "B",
+    "tip": "O sujeito é quem realiza a ação.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Em qual das palavras a sílaba tônica está corretamente indicada?",
+    "answers": { "A": "fábrica", "B": "cafe", "C": "lapís", "D": "lápis" },
+    "correct_answer": "D",
+    "tip": "A sílaba tônica é a mais forte da palavra.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Assinale a frase que está correta:",
+    "answers": {
+      "A": "Nós vai ao cinema",
+      "B": "Eu vamos à escola",
+      "C": "Eles foram ao parque",
+      "D": "A gente vamos no mercado"
+    },
+    "correct_answer": "C",
+    "tip": "Verbo deve concordar com o sujeito.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é o plural de \"animal\"?",
+    "answers": {
+      "A": "Animais",
+      "B": "Animalz",
+      "C": "Animales",
+      "D": "Animão"
+    },
+    "correct_answer": "A",
+    "tip": "Atenção ao plural das palavras terminadas em -al.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual alternativa tem um adjetivo?",
+    "answers": { "A": "Feliz", "B": "Comer", "C": "Correr", "D": "Escola" },
+    "correct_answer": "A",
+    "tip": "Adjetivo é a palavra que caracteriza um ser.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é o antônimo de \"alegre\"?",
+    "answers": {
+      "A": "Contente",
+      "B": "Feliz",
+      "C": "Triste",
+      "D": "Sorridente"
+    },
+    "correct_answer": "C",
+    "tip": "Antônimos são palavras com significados opostos.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Em qual frase há uma preposição?",
+    "answers": {
+      "A": "O menino brinca",
+      "B": "A bola está sobre a mesa",
+      "C": "Eles jogam futebol",
+      "D": "Maria canta bem"
+    },
+    "correct_answer": "B",
+    "tip": "Preposição liga palavras, mostrando relações de lugar, tempo, causa etc.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Marque a frase com erro de ortografia:",
+    "answers": {
+      "A": "A menina chorou",
+      "B": "Ele foi na escola",
+      "C": "Nós fizemos o dever",
+      "D": "Eu conheso ele"
+    },
+    "correct_answer": "D",
+    "tip": "A forma correta é \"conheço\", com \"ch\".",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual das palavras é um substantivo comum?",
+    "answers": { "A": "Brasil", "B": "João", "C": "Cidade", "D": "Júlia" },
+    "correct_answer": "C",
+    "tip": "Substantivos comuns nomeiam seres em geral, sem especificar.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "A frase \"A menina correu rapidamente\" contém qual classe de palavra?",
+    "answers": {
+      "A": "Substantivo",
+      "B": "Adjetivo",
+      "C": "Verbo",
+      "D": "Advérbio"
+    },
+    "correct_answer": "D",
+    "tip": "Advérbios indicam circunstâncias como modo, tempo, lugar.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual a forma correta de escrever?",
+    "answers": { "A": "Emcima", "B": "Em cima", "C": "Encima", "D": "Em-sima" },
+    "correct_answer": "B",
+    "tip": "A locução \"em cima\" se escreve separada.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "O que está errado na frase: \"Ela foi na escola.\"?",
+    "answers": {
+      "A": "O uso da palavra \"foi\"",
+      "B": "A ausência de crase",
+      "C": "O verbo no passado",
+      "D": "Nada está errado"
+    },
+    "correct_answer": "B",
+    "tip": "O correto é \"Ela foi à escola\" — crase antes de palavras femininas.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "A palavra \"brincadeira\" é formada por:",
+    "answers": {
+      "A": "Adição de sufixo",
+      "B": "Redução",
+      "C": "Prefixação",
+      "D": "Radical e vogal temática"
+    },
+    "correct_answer": "A",
+    "tip": "Sufixos vêm depois do radical e alteram o significado da palavra.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Na frase \"A professora explicou a lição\", qual o verbo?",
+    "answers": { "A": "Professora", "B": "A", "C": "Explicou", "D": "Lição" },
+    "correct_answer": "C",
+    "tip": "O verbo é a palavra que indica ação, estado ou fenômeno.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual alternativa apresenta um verbo no futuro?",
+    "answers": {
+      "A": "Ele comeu",
+      "B": "Ela canta",
+      "C": "Eu cantarei",
+      "D": "Nós estudamos"
+    },
+    "correct_answer": "C",
+    "tip": "Verbo no futuro indica algo que ainda vai acontecer.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual das frases tem sentido figurado?",
+    "answers": {
+      "A": "Ele correu muito",
+      "B": "Ela é uma estrela",
+      "C": "A menina dorme cedo",
+      "D": "O cachorro latiu"
+    },
+    "correct_answer": "B",
+    "tip": "Sentido figurado é o uso não literal das palavras.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Em qual alternativa há uma interjeição?",
+    "answers": {
+      "A": "Ai! Que dor!",
+      "B": "Corri para casa",
+      "C": "Ele estuda muito",
+      "D": "Nós viajamos"
+    },
+    "correct_answer": "A",
+    "tip": "Interjeições expressam emoções ou reações imediatas.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é a forma correta do diminutivo de \"casa\"?",
+    "answers": {
+      "A": "Casezinha",
+      "B": "Casinha",
+      "C": "Casazinha",
+      "D": "Casita"
+    },
+    "correct_answer": "B",
+    "tip": "O sufixo \"-inha\" é usado para formar diminutivos.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual palavra rima com \"coração\"?",
+    "answers": { "A": "Casa", "B": "Televisão", "C": "Razão", "D": "Caminhão" },
+    "correct_answer": "C",
+    "tip": "Rima é a repetição de sons a partir da última vogal tônica.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Na frase \"Eu gosto de estudar\", o verbo está em que tempo?",
+    "answers": {
+      "A": "Futuro",
+      "B": "Passado",
+      "C": "Presente",
+      "D": "Infinitivo"
+    },
+    "correct_answer": "C",
+    "tip": "Verbo no presente indica ações que ocorrem agora.",
+    "subject": "portugues",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual frase está corretamente pontuada?",
+    "answers": {
+      "A": "Maria, João e Ana, foram ao cinema.",
+      "B": "Maria João, e Ana foram ao cinema.",
+      "C": "Maria, João e Ana foram ao cinema.",
+      "D": "Maria João e Ana, foram ao cinema."
+    },
+    "correct_answer": "C",
+    "tip": "A vírgula não separa sujeito e predicado — cuidado com pontuação excessiva.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "Na frase “Ele mesmo resolveu o problema”, a palavra “mesmo” tem valor de:",
+    "answers": {
+      "A": "Intensificador",
+      "B": "Pronome demonstrativo",
+      "C": "Pronome de reforço",
+      "D": "Substantivo"
+    },
+    "correct_answer": "C",
+    "tip": "O termo “mesmo” pode ser usado para enfatizar o sujeito da ação.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "O emprego do “a” com crase está correto em:",
+    "answers": {
+      "A": "Entreguei a diretora o documento.",
+      "B": "Fui a escola.",
+      "C": "Dirigi-me à diretora.",
+      "D": "Cheguei à as dez horas."
+    },
+    "correct_answer": "C",
+    "tip": "Use crase quando há preposição e artigo definido feminino.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "Em “Mal cheguei, ela já saiu”, a palavra “Mal” é:",
+    "answers": {
+      "A": "Substantivo",
+      "B": "Advérbio de tempo",
+      "C": "Advérbio de modo",
+      "D": "Adjetivo"
+    },
+    "correct_answer": "B",
+    "tip": "“Mal” indica anterioridade aqui — equivale a “assim que”.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "Em qual alternativa há erro de colocação pronominal?",
+    "answers": {
+      "A": "Não me disseram nada.",
+      "B": "Me disseram a verdade.",
+      "C": "Disseram-me a verdade.",
+      "D": "Nunca me disseram isso."
+    },
+    "correct_answer": "B",
+    "tip": "Pronomes oblíquos não devem iniciar orações afirmativas.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "“Ela pediu que eu viesse.” O tempo verbal usado é:",
+    "answers": {
+      "A": "Pretérito imperfeito",
+      "B": "Futuro do subjuntivo",
+      "C": "Pretérito mais-que-perfeito",
+      "D": "Pretérito imperfeito do subjuntivo"
+    },
+    "correct_answer": "D",
+    "tip": "Verbos com final -esse/-esse/-éssemos/-essem indicam esse tempo verbal.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "A frase “Ele tem olhos de águia” é exemplo de:",
+    "answers": {
+      "A": "Metáfora",
+      "B": "Comparação",
+      "C": "Hipérbole",
+      "D": "Metonímia"
+    },
+    "correct_answer": "A",
+    "tip": "Metáfora é uma comparação implícita, sem o uso de “como”.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "Qual palavra está grafada incorretamente?",
+    "answers": {
+      "A": "Exceção",
+      "B": "Reinvindicar",
+      "C": "Sucinto",
+      "D": "Privilégio"
+    },
+    "correct_answer": "B",
+    "tip": "A forma correta é “reivindicar”, com “ei”.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "“Ela ficou vermelha de vergonha.” O termo “de vergonha” é:",
+    "answers": {
+      "A": "Objeto direto",
+      "B": "Complemento nominal",
+      "C": "Predicativo",
+      "D": "Adjunto adverbial"
+    },
+    "correct_answer": "D",
+    "tip": "Adjunto adverbial indica a causa da ação.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "Em “A verdade será dita”, o verbo está na voz:",
+    "answers": {
+      "A": "Ativa",
+      "B": "Passiva analítica",
+      "C": "Reflexiva",
+      "D": "Passiva sintética"
+    },
+    "correct_answer": "B",
+    "tip": "Voz passiva analítica = ser + particípio do verbo principal.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o antônimo de “sábio” no contexto correto?",
+    "answers": { "A": "Esperto", "B": "Tolo", "C": "Razoável", "D": "Crédulo" },
+    "correct_answer": "B",
+    "tip": "Antônimos mudam conforme o contexto — cuidado com sinônimos aparentes.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "“Que” é conjunção integrante em:",
+    "answers": {
+      "A": "O livro que li é ótimo.",
+      "B": "Que dia bonito!",
+      "C": "Espero que ele venha.",
+      "D": "O que você quer?"
+    },
+    "correct_answer": "C",
+    "tip": "Conjunções integrantes ligam orações subordinadas substantivas.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "O sujeito da oração “Faltam três alunos” é:",
+    "answers": {
+      "A": "Indeterminado",
+      "B": "Inexistente",
+      "C": "Simples",
+      "D": "Composto"
+    },
+    "correct_answer": "C",
+    "tip": "O sujeito é “três alunos” — verbo concorda com o sujeito posposto.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "Assinale a alternativa com erro de regência:",
+    "answers": {
+      "A": "Prefiro estudar a descansar.",
+      "B": "Obedeceram às ordens.",
+      "C": "Assistiram o filme ontem.",
+      "D": "Chegamos ao local combinado."
+    },
+    "correct_answer": "C",
+    "tip": "“Assistir” no sentido de ver exige preposição “a”.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "A palavra “porquê” está corretamente usada em:",
+    "answers": {
+      "A": "Não sei o porquê de tanta pressa.",
+      "B": "Porquê você não veio?",
+      "C": "Tudo isso aconteceu porquê?",
+      "D": "Não entendi porquê você saiu."
+    },
+    "correct_answer": "A",
+    "tip": "“Porquê” com acento é substantivo e vem com artigo (“o porquê”).",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "A frase com sentido ambíguo é:",
+    "answers": {
+      "A": "Ele entregou o presente para o irmão do amigo.",
+      "B": "A noite estava calma.",
+      "C": "Eles chegaram atrasados.",
+      "D": "O céu escureceu de repente."
+    },
+    "correct_answer": "A",
+    "tip": "Ambiguidade ocorre quando há mais de uma interpretação possível.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "Na palavra “infelizmente”, o prefixo “in-” indica:",
+    "answers": {
+      "A": "Intensidade",
+      "B": "Negação",
+      "C": "Tempo",
+      "D": "Lugar"
+    },
+    "correct_answer": "B",
+    "tip": "Prefixos mudam o sentido da palavra — “in-” muitas vezes indica negação.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "Qual alternativa apresenta erro de ortografia?",
+    "answers": {
+      "A": "Chegada",
+      "B": "Ancioso",
+      "C": "Caminhada",
+      "D": "Destino"
+    },
+    "correct_answer": "B",
+    "tip": "A forma correta é “ansioso”, com “s”.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "A oração “Quando ele chegou, todos já haviam saído” é:",
+    "answers": {
+      "A": "Coordenada assindética",
+      "B": "Coordenada explicativa",
+      "C": "Subordinada adverbial temporal",
+      "D": "Subordinada adjetiva"
+    },
+    "correct_answer": "C",
+    "tip": "Orações subordinadas adverbiais indicam circunstâncias (tempo, causa, etc.).",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "“Tudo estava silencioso, exceto o relógio.” A palavra “exceto” é classificada como:",
+    "answers": {
+      "A": "Conjunção",
+      "B": "Pronome",
+      "C": "Preposição",
+      "D": "Advérbio"
+    },
+    "correct_answer": "C",
+    "tip": "“Exceto” é preposição que indica exclusão.",
+    "subject": "portugues",
+    "level": "medio"
+  },
+  {
+    "text": "Choose the correct option: \"She has lived in London ___ 2015.\"",
+    "answers": { "A": "for", "B": "since", "C": "by", "D": "at" },
+    "correct_answer": "B",
+    "tip": "Use “since” com um ponto específico no tempo (ex: since 2015).",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Identify the passive voice: \"The cake was made by John.\"",
+    "answers": {
+      "A": "Simple present",
+      "B": "Present perfect",
+      "C": "Passive voice",
+      "D": "Future"
+    },
+    "correct_answer": "C",
+    "tip": "Na voz passiva, o foco está na ação sofrida pelo sujeito.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "What is the past perfect form of \"go\"?",
+    "answers": { "A": "went", "B": "had go", "C": "had gone", "D": "gone" },
+    "correct_answer": "C",
+    "tip": "O “past perfect” é formado por “had” + particípio.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Choose the sentence with correct conditional form:",
+    "answers": {
+      "A": "If I will study, I pass.",
+      "B": "If I studied, I would pass.",
+      "C": "If I study, I passed.",
+      "D": "If I was study, I pass."
+    },
+    "correct_answer": "B",
+    "tip": "O “second conditional” é usado para hipóteses irreais no presente.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Which is a correct reported speech?",
+    "answers": {
+      "A": "He says he go to school.",
+      "B": "He said he goes to school.",
+      "C": "He said he went to school.",
+      "D": "He said he had go to school."
+    },
+    "correct_answer": "C",
+    "tip": "No discurso indireto, o verbo geralmente vai para o passado.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Which word is a synonym for \"intelligent\"?",
+    "answers": { "A": "Brave", "B": "Smart", "C": "Tall", "D": "Cold" },
+    "correct_answer": "B",
+    "tip": "Sinônimos enriquecem o vocabulário.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Choose the correct preposition: \"He is good ___ math.\"",
+    "answers": { "A": "in", "B": "at", "C": "on", "D": "for" },
+    "correct_answer": "B",
+    "tip": "“Good at” é a combinação correta para habilidades.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Identify the phrasal verb meaning “stop trying”:",
+    "answers": {
+      "A": "give away",
+      "B": "give back",
+      "C": "give up",
+      "D": "give out"
+    },
+    "correct_answer": "C",
+    "tip": "“Give up” = desistir.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "What is the opposite of “cheap”?",
+    "answers": { "A": "expensive", "B": "easy", "C": "high", "D": "quick" },
+    "correct_answer": "A",
+    "tip": "Antônimos são importantes para interpretação.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Which word is an adverb?",
+    "answers": { "A": "Slowly", "B": "Slow", "C": "Slower", "D": "Slowest" },
+    "correct_answer": "A",
+    "tip": "Adjetivos viram advérbios com “-ly”.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "“She has been working here for 3 years.” → Tense?",
+    "answers": {
+      "A": "Present simple",
+      "B": "Past perfect",
+      "C": "Present perfect continuous",
+      "D": "Future perfect"
+    },
+    "correct_answer": "C",
+    "tip": "“Has been + ing” indica uma ação contínua iniciada no passado.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Which is the correct question tag? \"You are tired, ___?\"",
+    "answers": {
+      "A": "are you",
+      "B": "aren't you",
+      "C": "don't you",
+      "D": "do you"
+    },
+    "correct_answer": "B",
+    "tip": "Afirmação + negação = question tag correta.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Choose the best translation: “Apesar da chuva, ele foi ao jogo.”",
+    "answers": {
+      "A": "Because of the rain, he went to the game.",
+      "B": "In spite of the rain, he went to the game.",
+      "C": "Despite of the rain, he went to the game.",
+      "D": "Although it rained, he went game."
+    },
+    "correct_answer": "B",
+    "tip": "“In spite of” ou “despite” indicam contraste.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Which word completes: \"Neither of them ___ coming.\"",
+    "answers": { "A": "are", "B": "is", "C": "were", "D": "be" },
+    "correct_answer": "B",
+    "tip": "“Neither” é singular.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Choose the correct spelling:",
+    "answers": {
+      "A": "Enviroment",
+      "B": "Envaironment",
+      "C": "Environment",
+      "D": "Envirement"
+    },
+    "correct_answer": "C",
+    "tip": "Atenção à ortografia de palavras frequentes no ENEM.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Which word completes: “It depends ___ the weather.”",
+    "answers": { "A": "in", "B": "on", "C": "at", "D": "for" },
+    "correct_answer": "B",
+    "tip": "O verbo “depend” exige a preposição “on”.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Find the error: “He didn’t went to school yesterday.”",
+    "answers": { "A": "didn’t", "B": "went", "C": "to", "D": "yesterday" },
+    "correct_answer": "B",
+    "tip": "Após “did”, o verbo volta ao infinitivo.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Choose the correct word: \"The news ___ important.\"",
+    "answers": { "A": "are", "B": "were", "C": "is", "D": "be" },
+    "correct_answer": "C",
+    "tip": "“News” é um substantivo incontável e singular.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Identify the modal verb:",
+    "answers": { "A": "can", "B": "is", "C": "have", "D": "goes" },
+    "correct_answer": "A",
+    "tip": "“Can” indica possibilidade ou habilidade.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "Choose the right translation: “Eles não puderam vir ontem.”",
+    "answers": {
+      "A": "They can’t come yesterday.",
+      "B": "They couldn’t come yesterday.",
+      "C": "They didn’t can come yesterday.",
+      "D": "They didn’t could come yesterday."
+    },
+    "correct_answer": "B",
+    "tip": "“Could” é o passado de “can”.",
+    "subject": "ingles",
+    "level": "medio"
+  },
+  {
+    "text": "What color is the sky?",
+    "answers": { "A": "Green", "B": "Blue", "C": "Yellow", "D": "Red" },
+    "correct_answer": "B",
+    "tip": "As cores são essenciais no vocabulário básico.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Translate: “Bom dia”",
+    "answers": {
+      "A": "Good night",
+      "B": "Good morning",
+      "C": "Hello",
+      "D": "See you"
+    },
+    "correct_answer": "B",
+    "tip": "Use “Good morning” até o meio-dia.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Choose the correct sentence:",
+    "answers": {
+      "A": "She are happy.",
+      "B": "She is happy.",
+      "C": "She am happy.",
+      "D": "She be happy."
+    },
+    "correct_answer": "B",
+    "tip": "“She” combina com “is”.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "What is the plural of “book”?",
+    "answers": { "A": "Books", "B": "Bookes", "C": "Bookz", "D": "Bookies" },
+    "correct_answer": "A",
+    "tip": "A maioria dos substantivos forma o plural com “s”.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Translate: “Eu gosto de pizza.”",
+    "answers": {
+      "A": "I eat pizza",
+      "B": "I want pizza",
+      "C": "I like pizza",
+      "D": "I have pizza"
+    },
+    "correct_answer": "C",
+    "tip": "“Like” é usado para indicar preferência.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "What animal is this: “dog”?",
+    "answers": { "A": "Gato", "B": "Pássaro", "C": "Cachorro", "D": "Cavalo" },
+    "correct_answer": "C",
+    "tip": "Animais são comuns em provas iniciais de inglês.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Choose the correct article: “___ orange”",
+    "answers": { "A": "A", "B": "An", "C": "The", "D": "One" },
+    "correct_answer": "B",
+    "tip": "Use “an” antes de som de vogal.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Which number is \"fifteen\"?",
+    "answers": { "A": "50", "B": "15", "C": "5", "D": "25" },
+    "correct_answer": "B",
+    "tip": "Aprenda números até pelo menos 100.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Complete: “Good ___!” (à noite)",
+    "answers": { "A": "night", "B": "evening", "C": "morning", "D": "bye" },
+    "correct_answer": "A",
+    "tip": "“Good night” é usado na despedida noturna.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "What is the opposite of “hot”?",
+    "answers": { "A": "Cold", "B": "Warm", "C": "Nice", "D": "Soft" },
+    "correct_answer": "A",
+    "tip": "Estude pares de antônimos.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Translate: “My mother is at home.”",
+    "answers": {
+      "A": "Minha mãe está em casa",
+      "B": "Minha mãe está no trabalho",
+      "C": "Minha irmã está em casa",
+      "D": "Minha mãe está feliz"
+    },
+    "correct_answer": "A",
+    "tip": "“At home” = em casa.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Choose the correct form: “He ___ TV every day.”",
+    "answers": {
+      "A": "watch",
+      "B": "watches",
+      "C": "watching",
+      "D": "watched"
+    },
+    "correct_answer": "B",
+    "tip": "3ª pessoa do singular recebe “es” com verbos terminados em -ch.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "What color is a banana?",
+    "answers": { "A": "Red", "B": "Yellow", "C": "Blue", "D": "Black" },
+    "correct_answer": "B",
+    "tip": "Frutas são temas frequentes em vocabulário.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "How do you say “casa” in English?",
+    "answers": { "A": "Car", "B": "School", "C": "House", "D": "Home" },
+    "correct_answer": "C",
+    "tip": "“House” é estrutura; “home” é o lar.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Choose the correct word: “I have ___ sister.”",
+    "answers": { "A": "a", "B": "an", "C": "the", "D": "one" },
+    "correct_answer": "A",
+    "tip": "“A” é usado com palavras iniciadas por consoante sonora.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "What is the opposite of “fast”?",
+    "answers": { "A": "Strong", "B": "Tall", "C": "Slow", "D": "Small" },
+    "correct_answer": "C",
+    "tip": "“Fast” = rápido, “slow” = devagar.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Translate: “Ele é meu amigo.”",
+    "answers": {
+      "A": "He is my friend",
+      "B": "He are my friend",
+      "C": "He be my friend",
+      "D": "He am my friend"
+    },
+    "correct_answer": "A",
+    "tip": "“He” combina com “is”.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Complete: “It is ___ cat.”",
+    "answers": { "A": "an", "B": "the", "C": "a", "D": "one" },
+    "correct_answer": "C",
+    "tip": "“Cat” começa com consoante sonora → usa “a”.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "What does “school” mean?",
+    "answers": { "A": "Livro", "B": "Escola", "C": "Mochila", "D": "Lápis" },
+    "correct_answer": "B",
+    "tip": "Palavras do dia a dia escolar são comuns.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "What day comes after Monday?",
+    "answers": {
+      "A": "Sunday",
+      "B": "Wednesday",
+      "C": "Friday",
+      "D": "Tuesday"
+    },
+    "correct_answer": "D",
+    "tip": "Conhecer os dias da semana é essencial.",
+    "subject": "ingles",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é o principal astro do nosso sistema solar?",
+    "answers": { "A": "Terra", "B": "Lua", "C": "Marte", "D": "Sol" },
+    "correct_answer": "D",
+    "tip": "Ele fornece luz e calor para a Terra.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Como se chama o processo pelo qual as plantas produzem seu próprio alimento?",
+    "answers": {
+      "A": "Respiração",
+      "B": "Digestão",
+      "C": "Fotossíntese",
+      "D": "Transpiração"
+    },
+    "correct_answer": "C",
+    "tip": "Esse processo precisa de luz solar para acontecer.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "O que usamos para medir a temperatura do corpo?",
+    "answers": {
+      "A": "Régua",
+      "B": "Termômetro",
+      "C": "Relógio",
+      "D": "Balança"
+    },
+    "correct_answer": "B",
+    "tip": "É um instrumento comum em consultórios médicos.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual destes é um órgão do sistema respiratório?",
+    "answers": {
+      "A": "Estômago",
+      "B": "Fêmur",
+      "C": "Pulmão",
+      "D": "Intestino"
+    },
+    "correct_answer": "C",
+    "tip": "Ele é fundamental para captar oxigênio.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual desses animais é um mamífero?",
+    "answers": { "A": "Jacaré", "B": "Galo", "C": "Baleia", "D": "Tartaruga" },
+    "correct_answer": "C",
+    "tip": "Mesmo vivendo na água, esse animal tem pulmões e mama os filhotes.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é o estado físico da água em um cubo de gelo?",
+    "answers": { "A": "Líquido", "B": "Gasoso", "C": "Sólido", "D": "Plasma" },
+    "correct_answer": "C",
+    "tip": "Está em sua forma mais dura e fria.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual destes objetos é atraído por um ímã?",
+    "answers": {
+      "A": "Vidro",
+      "B": "Papel",
+      "C": "Prego de ferro",
+      "D": "Madeira"
+    },
+    "correct_answer": "C",
+    "tip": "É um material metálico muito comum em ferramentas.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é a função do esqueleto humano?",
+    "answers": {
+      "A": "Regular a temperatura",
+      "B": "Controlar a digestão",
+      "C": "Dar sustentação ao corpo",
+      "D": "Produzir saliva"
+    },
+    "correct_answer": "C",
+    "tip": "Ele ajuda o corpo a manter-se firme e protegido.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "O que é necessário para haver som?",
+    "answers": {
+      "A": "Luz",
+      "B": "Matéria escura",
+      "C": "Vibração",
+      "D": "Eletricidade"
+    },
+    "correct_answer": "C",
+    "tip": "Pode ser percebida quando batemos as mãos.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual dos elementos abaixo é um gás presente no ar que respiramos?",
+    "answers": {
+      "A": "Hidrogênio",
+      "B": "Oxigênio",
+      "C": "Mercúrio",
+      "D": "Ferro"
+    },
+    "correct_answer": "B",
+    "tip": "É essencial para a respiração dos seres humanos.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "O que acontece com a água quando ela ferve?",
+    "answers": {
+      "A": "Vira gelo",
+      "B": "Transforma-se em vapor",
+      "C": "Aumenta de peso",
+      "D": "Torna-se sólida"
+    },
+    "correct_answer": "B",
+    "tip": "Esse processo acontece quando ela atinge 100°C.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Como se chama a mudança da água do estado gasoso para o líquido?",
+    "answers": {
+      "A": "Evaporação",
+      "B": "Fusão",
+      "C": "Condensação",
+      "D": "Solidificação"
+    },
+    "correct_answer": "C",
+    "tip": "Ocorre quando o vapor se resfria.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual destes alimentos é rico em cálcio?",
+    "answers": { "A": "Pão", "B": "Leite", "C": "Arroz", "D": "Carne" },
+    "correct_answer": "B",
+    "tip": "Esse mineral é importante para ossos e dentes.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "O que acontece com a sombra de uma pessoa ao meio-dia?",
+    "answers": {
+      "A": "Aumenta muito",
+      "B": "Some totalmente",
+      "C": "Fica menor",
+      "D": "Não muda"
+    },
+    "correct_answer": "C",
+    "tip": "A posição do sol está em seu ponto mais alto.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é a principal função dos ribossomos na célula?",
+    "answers": {
+      "A": "Produzir energia",
+      "B": "Armazenar água",
+      "C": "Produzir proteínas",
+      "D": "Transportar oxigênio"
+    },
+    "correct_answer": "C",
+    "tip": "Essa estrutura está relacionada ao funcionamento do DNA e RNA.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual das alternativas representa uma substância pura?",
+    "answers": {
+      "A": "Leite",
+      "B": "Ar",
+      "C": "Água destilada",
+      "D": "Sal de cozinha com iodo"
+    },
+    "correct_answer": "C",
+    "tip": "Ela tem apenas um tipo de molécula em sua composição.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é o nome da camada da Terra onde ocorrem os terremotos?",
+    "answers": { "A": "Núcleo", "B": "Crosta", "C": "Manto", "D": "Litosfera" },
+    "correct_answer": "D",
+    "tip": "É a camada mais externa e rígida da Terra.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "O que acontece com a massa de um objeto ao levá-lo para a Lua?",
+    "answers": {
+      "A": "Diminui",
+      "B": "Aumenta",
+      "C": "Permanece a mesma",
+      "D": "Fica negativa"
+    },
+    "correct_answer": "C",
+    "tip": "Ela não depende da gravidade do lugar onde está.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Em qual parte da planta ocorre a maior parte da fotossíntese?",
+    "answers": { "A": "Raiz", "B": "Flor", "C": "Caule", "D": "Folha" },
+    "correct_answer": "D",
+    "tip": "Contém clorofila, um pigmento verde.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é a diferença entre uma reação química e uma física?",
+    "answers": {
+      "A": "A química muda a cor",
+      "B": "A física sempre envolve calor",
+      "C": "A química forma novas substâncias",
+      "D": "A física altera o átomo"
+    },
+    "correct_answer": "C",
+    "tip": "Apenas uma das duas altera a composição da matéria.",
+    "subject": "naturais",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é a principal fonte de energia para a fotossíntese?",
+    "answers": {
+      "A": "Água",
+      "B": "Glicose",
+      "C": "Luz solar",
+      "D": "Oxigênio"
+    },
+    "correct_answer": "C",
+    "tip": "Sem ela, o processo não acontece nem durante o dia.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Qual desses elementos é um metal?",
+    "answers": {
+      "A": "Oxigênio",
+      "B": "Enxofre",
+      "C": "Ferro",
+      "D": "Gás carbônico"
+    },
+    "correct_answer": "C",
+    "tip": "É utilizado para fabricar panelas, ferramentas e carros.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "O que é medido por um velocímetro em um carro?",
+    "answers": { "A": "Força", "B": "Massa", "C": "Velocidade", "D": "Tempo" },
+    "correct_answer": "C",
+    "tip": "Fica no painel e ajuda a controlar o quanto o carro anda rápido.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o órgão do corpo humano responsável por bombear o sangue?",
+    "answers": { "A": "Pulmão", "B": "Estômago", "C": "Rim", "D": "Coração" },
+    "correct_answer": "D",
+    "tip": "Ele bate o tempo todo e pode acelerar em situações de estresse.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é a fórmula química da água?",
+    "answers": { "A": "CO₂", "B": "NaCl", "C": "H₂O", "D": "CH₄" },
+    "correct_answer": "C",
+    "tip": "Tem dois átomos de um gás leve e um de um gás que ajuda a respirar.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "A que grupo pertencem as vacinas?",
+    "answers": {
+      "A": "Vitaminas",
+      "B": "Antibióticos",
+      "C": "Imunizantes",
+      "D": "Anti-inflamatórios"
+    },
+    "correct_answer": "C",
+    "tip": "Elas preparam o corpo para se defender de doenças.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o estado físico da matéria que tem forma e volume definidos?",
+    "answers": { "A": "Gasoso", "B": "Líquido", "C": "Sólido", "D": "Plasma" },
+    "correct_answer": "C",
+    "tip": "Os átomos estão organizados e muito próximos uns dos outros.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Em um circuito elétrico simples, o que acontece se a resistência aumentar, mantendo a voltagem constante?",
+    "answers": {
+      "A": "A corrente elétrica aumenta",
+      "B": "A corrente elétrica diminui",
+      "C": "A corrente elétrica permanece a mesma",
+      "D": "A corrente elétrica desaparece"
+    },
+    "correct_answer": "B",
+    "tip": "Lembre-se da Lei de Ohm.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o papel do ATP na célula?",
+    "answers": {
+      "A": "Formar a parede celular",
+      "B": "Estocar DNA",
+      "C": "Fornecer energia",
+      "D": "Produzir hormônios"
+    },
+    "correct_answer": "C",
+    "tip": "É como uma \"moeda energética\" nas reações bioquímicas.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o pH de uma solução neutra?",
+    "answers": { "A": "2", "B": "5", "C": "7", "D": "10" },
+    "correct_answer": "C",
+    "tip": "Nem ácida, nem básica.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "A decomposição da água em hidrogênio e oxigênio é um exemplo de:",
+    "answers": {
+      "A": "Reação de síntese",
+      "B": "Reação de neutralização",
+      "C": "Reação de decomposição",
+      "D": "Reação de combustão"
+    },
+    "correct_answer": "C",
+    "tip": "Uma única substância se transforma em duas diferentes.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Em qual camada da atmosfera ocorre a maioria dos fenômenos meteorológicos?",
+    "answers": {
+      "A": "Mesosfera",
+      "B": "Termosfera",
+      "C": "Troposfera",
+      "D": "Estratosfera"
+    },
+    "correct_answer": "C",
+    "tip": "É a mais próxima da superfície terrestre.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "O que é um gene?",
+    "answers": {
+      "A": "Tipo de célula",
+      "B": "Segmento de RNA",
+      "C": "Unidade de informação hereditária",
+      "D": "Parte da membrana celular"
+    },
+    "correct_answer": "C",
+    "tip": "Está relacionado com herança biológica e expressão de características.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Qual a função dos neutrófilos no organismo humano?",
+    "answers": {
+      "A": "Produzir insulina",
+      "B": "Transportar oxigênio",
+      "C": "Defender contra micro-organismos",
+      "D": "Regular a pressão arterial"
+    },
+    "correct_answer": "C",
+    "tip": "São células do sistema imune inatas.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Em termos de entropia, qual processo é mais favorecido termodinamicamente?",
+    "answers": {
+      "A": "Condensação do vapor",
+      "B": "Congelamento da água",
+      "C": "Fusão de gelo",
+      "D": "Dissolução de sal em água"
+    },
+    "correct_answer": "D",
+    "tip": "Envolve aumento na desordem molecular.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Qual das partículas subatômicas é responsável pela identidade química de um elemento?",
+    "answers": { "A": "Nêutron", "B": "Elétron", "C": "Próton", "D": "Méson" },
+    "correct_answer": "C",
+    "tip": "Seu número define o lugar do elemento na tabela periódica.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Um organismo apresenta três pares de alelos independentes Aa, Bb e Cc. Qual a proporção fenotípica esperada entre indivíduos que apresentam todos os fenótipos dominantes num cruzamento AaBbCc x AaBbCc?",
+    "answers": { "A": "1/8", "B": "27/64", "C": "9/64", "D": "3/16" },
+    "correct_answer": "B",
+    "tip": "Cada par de alelos domina de forma independente.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Qual fenômeno é responsável pela coloração azul do céu durante o dia?",
+    "answers": {
+      "A": "Reflexão",
+      "B": "Absorção",
+      "C": "Dispersão",
+      "D": "Refração"
+    },
+    "correct_answer": "C",
+    "tip": "A luz branca do Sol interage com partículas da atmosfera.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Durante a respiração celular aeróbica, qual é o aceptor final de elétrons?",
+    "answers": { "A": "NAD+", "B": "Oxigênio", "C": "Glicose", "D": "ATP" },
+    "correct_answer": "B",
+    "tip": "Esse aceptor permite a produção eficiente de energia.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o nome do efeito que ocorre quando há mudança de frequência de uma onda sonora ou luminosa devido ao movimento da fonte ou do observador?",
+    "answers": {
+      "A": "Efeito Joule",
+      "B": "Efeito Doppler",
+      "C": "Efeito Compton",
+      "D": "Efeito Hall"
+    },
+    "correct_answer": "B",
+    "tip": "Está relacionado à percepção de som ou luz em movimento.",
+    "subject": "naturais",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o nome do continente onde fica o Brasil?",
+    "answers": { "A": "África", "B": "Europa", "C": "América", "D": "Ásia" },
+    "correct_answer": "C",
+    "tip": "É o mesmo continente onde estão Argentina, México e Canadá.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual foi o principal povo que habitava o Brasil antes da chegada dos portugueses?",
+    "answers": {
+      "A": "Espanhóis",
+      "B": "Indígenas",
+      "C": "Ingleses",
+      "D": "Africanos"
+    },
+    "correct_answer": "B",
+    "tip": "Viviam em aldeias e tinham cultura própria antes da colonização.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Em qual direção o Sol nasce?",
+    "answers": { "A": "Oeste", "B": "Sul", "C": "Norte", "D": "Leste" },
+    "correct_answer": "D",
+    "tip": "É o mesmo lado que fica o nascer do dia.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é a capital do Brasil?",
+    "answers": {
+      "A": "São Paulo",
+      "B": "Brasília",
+      "C": "Rio de Janeiro",
+      "D": "Salvador"
+    },
+    "correct_answer": "B",
+    "tip": "Foi construída para ser o centro político do país.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "O que é a escravidão?",
+    "answers": {
+      "A": "Sistema de governo",
+      "B": "Comércio de produtos",
+      "C": "Dominação e exploração de pessoas",
+      "D": "Criação de leis"
+    },
+    "correct_answer": "C",
+    "tip": "Foi uma prática comum durante a colonização do Brasil.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "O que usamos para nos localizar em mapas?",
+    "answers": { "A": "Bússola", "B": "Tesoura", "C": "Lupa", "D": "Régua" },
+    "correct_answer": "A",
+    "tip": "Indica os pontos cardeais.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual foi o país que colonizou o Brasil?",
+    "answers": {
+      "A": "França",
+      "B": "Inglaterra",
+      "C": "Portugal",
+      "D": "Espanha"
+    },
+    "correct_answer": "C",
+    "tip": "A língua oficial do Brasil veio desse país.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é a principal função de um prefeito?",
+    "answers": {
+      "A": "Criar leis federais",
+      "B": "Administrar a cidade",
+      "C": "Julgar crimes",
+      "D": "Controlar o comércio internacional"
+    },
+    "correct_answer": "B",
+    "tip": "Ele é o chefe do poder executivo municipal.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual documento garante os direitos e deveres dos cidadãos brasileiros?",
+    "answers": {
+      "A": "Bíblia",
+      "B": "Constituição Federal",
+      "C": "Código de Trânsito",
+      "D": "Estatuto da Criança"
+    },
+    "correct_answer": "B",
+    "tip": "Foi criada em 1988 e organiza as leis do país.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "A Revolução Industrial começou em qual país?",
+    "answers": {
+      "A": "França",
+      "B": "Alemanha",
+      "C": "Estados Unidos",
+      "D": "Inglaterra"
+    },
+    "correct_answer": "D",
+    "tip": "O país foi o pioneiro no uso de máquinas a vapor nas fábricas.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Como é chamado o sistema de governo em que o povo escolhe seus representantes?",
+    "answers": {
+      "A": "Ditadura",
+      "B": "República",
+      "C": "Monarquia",
+      "D": "Democracia"
+    },
+    "correct_answer": "D",
+    "tip": "É marcado por eleições e participação popular.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é o maior bioma brasileiro em extensão?",
+    "answers": {
+      "A": "Pantanal",
+      "B": "Amazônia",
+      "C": "Cerrado",
+      "D": "Caatinga"
+    },
+    "correct_answer": "B",
+    "tip": "Ocupa grande parte da região Norte do país.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Quem foi Zumbi dos Palmares?",
+    "answers": {
+      "A": "Um rei europeu",
+      "B": "Um bandeirante",
+      "C": "Um líder quilombola",
+      "D": "Um presidente do Brasil"
+    },
+    "correct_answer": "C",
+    "tip": "Lutou contra a escravidão e comandava um quilombo.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Em qual continente está localizado o Deserto do Saara?",
+    "answers": { "A": "América", "B": "Europa", "C": "Ásia", "D": "África" },
+    "correct_answer": "D",
+    "tip": "É o maior deserto quente do mundo.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual foi o principal fator que motivou as Grandes Navegações no século XV?",
+    "answers": {
+      "A": "A busca por rotas comerciais",
+      "B": "A proteção contra piratas",
+      "C": "A formação de impérios religiosos",
+      "D": "A fuga das guerras napoleônicas"
+    },
+    "correct_answer": "A",
+    "tip": "Estava relacionado ao comércio com o Oriente.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "O que caracterizava a sociedade feudal da Idade Média?",
+    "answers": {
+      "A": "Liberdade comercial",
+      "B": "Igualdade social",
+      "C": "Dependência entre senhores e servos",
+      "D": "Voto direto para governantes"
+    },
+    "correct_answer": "C",
+    "tip": "Era baseada em laços de obrigação e proteção.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual é a principal diferença entre um mapa político e um mapa físico?",
+    "answers": {
+      "A": "O uso de legendas",
+      "B": "A forma dos continentes",
+      "C": "A representação de fronteiras e relevo",
+      "D": "O idioma utilizado"
+    },
+    "correct_answer": "C",
+    "tip": "Um deles mostra divisões entre países, o outro mostra elementos naturais.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Qual foi o impacto da chegada dos portugueses nas populações indígenas do Brasil?",
+    "answers": {
+      "A": "Expansão territorial indígena",
+      "B": "Fortalecimento cultural",
+      "C": "Perda de território e identidade",
+      "D": "Aumento da população"
+    },
+    "correct_answer": "C",
+    "tip": "A colonização resultou em conflitos, doenças e exploração.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "O que significa “território” na Geografia?",
+    "answers": {
+      "A": "Qualquer área de floresta",
+      "B": "Apenas as cidades",
+      "C": "Espaço organizado pelo poder",
+      "D": "Região desabitada"
+    },
+    "correct_answer": "C",
+    "tip": "É um conceito que envolve domínio e controle de espaço.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "O que foi a Revolução Francesa?",
+    "answers": {
+      "A": "Um acordo entre países",
+      "B": "Uma guerra contra a escravidão",
+      "C": "Um movimento que derrubou a monarquia",
+      "D": "Um tratado de paz com a Inglaterra"
+    },
+    "correct_answer": "C",
+    "tip": "Marcou o fim dos privilégios da nobreza e do clero.",
+    "subject": "humanas",
+    "level": "fundamental"
+  },
+  {
+    "text": "Quem foi o responsável pela chegada dos portugueses ao Brasil em 1500?",
+    "answers": {
+      "A": "Pedro Álvares Cabral",
+      "B": "Dom Pedro II",
+      "C": "Cristóvão Colombo",
+      "D": "Vasco da Gama"
+    },
+    "correct_answer": "A",
+    "tip": "Foi um navegador português que liderava uma expedição para as Índias.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o principal idioma falado no Brasil?",
+    "answers": {
+      "A": "Espanhol",
+      "B": "Inglês",
+      "C": "Português",
+      "D": "Francês"
+    },
+    "correct_answer": "C",
+    "tip": "Veio do país colonizador do Brasil.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é o sistema de governo atual do Brasil?",
+    "answers": {
+      "A": "Monarquia",
+      "B": "Ditadura",
+      "C": "República presidencialista",
+      "D": "Anarquia"
+    },
+    "correct_answer": "C",
+    "tip": "O chefe de Estado e de governo é eleito pelo povo.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Qual foi a capital do Brasil antes de Brasília?",
+    "answers": {
+      "A": "Salvador",
+      "B": "Curitiba",
+      "C": "Rio de Janeiro",
+      "D": "Belo Horizonte"
+    },
+    "correct_answer": "C",
+    "tip": "Foi capital por mais de 100 anos, até 1960.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Qual foi o evento que deu fim à escravidão no Brasil?",
+    "answers": {
+      "A": "Independência",
+      "B": "Proclamação da República",
+      "C": "Assinatura da Lei Áurea",
+      "D": "Abolição da monarquia"
+    },
+    "correct_answer": "C",
+    "tip": "Foi assinada pela princesa regente.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Em qual continente está localizado o Brasil?",
+    "answers": { "A": "África", "B": "América", "C": "Europa", "D": "Oceania" },
+    "correct_answer": "B",
+    "tip": "É o mesmo continente onde estão EUA e México.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Quem foi Karl Marx?",
+    "answers": {
+      "A": "Um imperador romano",
+      "B": "Um filósofo iluminista",
+      "C": "O criador da psicanálise",
+      "D": "Um teórico do socialismo científico"
+    },
+    "correct_answer": "D",
+    "tip": "Criticava o capitalismo e propôs o materialismo histórico.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "O que representou a Revolução Francesa para a história do Ocidente?",
+    "answers": {
+      "A": "A consolidação da escravidão",
+      "B": "O início do absolutismo",
+      "C": "A ascensão da burguesia ao poder",
+      "D": "A volta da monarquia"
+    },
+    "correct_answer": "C",
+    "tip": "Inspirou ideais de liberdade, igualdade e fraternidade.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "A Guerra Fria foi marcada principalmente pela rivalidade entre:",
+    "answers": {
+      "A": "Inglaterra e França",
+      "B": "China e Japão",
+      "C": "EUA e URSS",
+      "D": "Alemanha e Itália"
+    },
+    "correct_answer": "C",
+    "tip": "O conflito foi ideológico, político e econômico.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Qual destes movimentos influenciou a independência das colônias na América Latina?",
+    "answers": {
+      "A": "Renascimento",
+      "B": "Reforma Protestante",
+      "C": "Iluminismo",
+      "D": "Revolução Industrial"
+    },
+    "correct_answer": "C",
+    "tip": "Defendia a razão, a liberdade e o fim do absolutismo.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Qual a principal característica do neoliberalismo econômico?",
+    "answers": {
+      "A": "Controle estatal da produção",
+      "B": "Intervenção governamental nos preços",
+      "C": "Redução do papel do Estado na economia",
+      "D": "Nacionalização de empresas"
+    },
+    "correct_answer": "C",
+    "tip": "Favorece o mercado livre e privatizações.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "O que foi o Tratado de Tordesilhas?",
+    "answers": {
+      "A": "Um tratado entre Brasil e França",
+      "B": "Um acordo que criou a ONU",
+      "C": "Um pacto de não-agressão",
+      "D": "Um acordo entre Portugal e Espanha sobre divisão de terras"
+    },
+    "correct_answer": "D",
+    "tip": "Foi assinado antes da ocupação efetiva da América.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Em qual ano ocorreu a Proclamação da República no Brasil?",
+    "answers": { "A": "1808", "B": "1822", "C": "1889", "D": "1964" },
+    "correct_answer": "C",
+    "tip": "Foi no final do século XIX.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Qual é a função principal do Poder Legislativo?",
+    "answers": {
+      "A": "Julgar crimes",
+      "B": "Aplicar leis",
+      "C": "Criar leis",
+      "D": "Administrar municípios"
+    },
+    "correct_answer": "C",
+    "tip": "Seus membros são os deputados e senadores.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "O que caracteriza a noção de \"formação socioespacial\" na Geografia crítica?",
+    "answers": {
+      "A": "A análise de regiões naturais",
+      "B": "A fragmentação política de países",
+      "C": "A interação entre sociedade e espaço na construção de territórios",
+      "D": "A definição clássica de clima e relevo"
+    },
+    "correct_answer": "C",
+    "tip": "É um conceito proposto por Milton Santos.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Na filosofia política de Maquiavel, o que importa ao governante?",
+    "answers": {
+      "A": "Ser amado por todos",
+      "B": "Ter uma origem nobre",
+      "C": "Alcançar e manter o poder",
+      "D": "Manter a moral cristã acima de tudo"
+    },
+    "correct_answer": "C",
+    "tip": "Sua obra mais conhecida é O Príncipe.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Qual a crítica central de Max Weber ao marxismo clássico?",
+    "answers": {
+      "A": "Rejeição da luta de classes",
+      "B": "Substituição da economia pela religião como fator principal da história",
+      "C": "Apoio ao anarquismo",
+      "D": "Defesa do absolutismo"
+    },
+    "correct_answer": "B",
+    "tip": "Sua obra relaciona protestantismo com o surgimento do capitalismo.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "O que representou a Conferência de Berlim (1884-85)?",
+    "answers": {
+      "A": "A divisão da Ásia entre potências europeias",
+      "B": "O fim do comércio de escravos",
+      "C": "A partilha da África entre potências coloniais",
+      "D": "O início da Guerra Mundial"
+    },
+    "correct_answer": "C",
+    "tip": "Foi uma reunião diplomática que ignorou as populações locais.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Segundo a geopolítica contemporânea, o que é soft power?",
+    "answers": {
+      "A": "Ameaça militar",
+      "B": "Influência por meios culturais, econômicos e diplomáticos",
+      "C": "Domínio territorial armado",
+      "D": "Controle de recursos energéticos por força bélica"
+    },
+    "correct_answer": "B",
+    "tip": "É uma forma sutil de influência.",
+    "subject": "humanas",
+    "level": "medio"
+  },
+  {
+    "text": "Qual foi o principal impacto da Revolução Cultural na China (1966–1976)?",
+    "answers": {
+      "A": "Industrialização do campo",
+      "B": "Repressão ao pensamento crítico e à tradição",
+      "C": "Abertura econômica ao capitalismo",
+      "D": "Expansão da democracia"
+    },
+    "correct_answer": "B",
+    "tip": "Liderada por Mao Tsé-Tung, envolveu perseguições ideológicas.",
+    "subject": "humanas",
+    "level": "medio"
+  }
+]

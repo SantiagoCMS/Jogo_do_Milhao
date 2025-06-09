@@ -3,6 +3,7 @@ from PIL import Image
 import os
 import json
 from jogo.game import Game
+import sqlite3
 
 class LoginApp(ctk.CTk):
     def __init__(self):

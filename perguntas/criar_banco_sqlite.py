@@ -24,6 +24,8 @@ def criar_ou_atualizar_banco():
         conn = sqlite3.connect(SQLITE_DB_FILENAME)
         cursor = conn.cursor()
 
+
+        # Verifica se a tabela "questions" existe e cria se não existir
         print("Criando tabela 'questions' se não existir...")
         cursor.execute("""
         CREATE TABLE IF NOT EXISTS questions (
@@ -42,12 +44,50 @@ def criar_ou_atualizar_banco():
         conn.commit()
         print("Tabela 'questions' verificada/criada.")
 
-        # >>> MODIFICAÇÃO AQUI: Limpa a tabela antes de inserir <<<
+
+        # Verifica se a tabela "usuários" existe e cria se não existir
+        print("Cirando tabela 'usuarios' se não existir...")
+        cursor.execute("""
+        CREATE TABLE IF NOT EXISTS usuarios (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            username TEXT NOT NULL UNIQUE,
+            password TEXT NOT NULL
+        )
+        """)
+        conn.commit()
+        print("Tabela 'usuarios' verificada/criada.")
+
+
+        # Verifica se a tabela "ranking" existe e cria se não existir
+        print("Criando tabela 'ranking' se não existir...")
+        cursor.execute("""
+        CREATE TABLE IF NOT EXISTS ranking (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            user_id INTEGER,
+            score INTEGER,
+            FOREIGN KEY (user_id) REFERENCES usuarios (id)
+        )
+        """)
+        conn.commit()
+        print("Tabela 'ranking' verificada/criada.")
+
+
+        # >>>>> MODIFICAÇÃO AQUI: Limpa as tabelas antes de inserir <<<<<
         print("Limpando perguntas existentes da tabela 'questions' para atualização...")
         cursor.execute("DELETE FROM questions")
         conn.commit()
         print("Tabela 'questions' limpa.")
-        # >>> FIM DA MODIFICAÇÃO <<<
+
+        print("Limpando usuários existentes da tabela 'usuarios' para atualização...")
+        cursor.execute("DELETE FROM usuarios")
+        conn.commit()
+        print("Tabela 'usuarios' limpa.")
+
+        print("Limpando ranking existente da tabela 'ranking' para atualização...")
+        cursor.execute("DELETE FROM ranking")
+        conn.commit()
+        print("Tabela 'ranking' limpa.")
+        # >>>>> FIM DA MODIFICAÇÃO <<<<<
 
         print(f"Carregando perguntas do arquivo: {JSON_FILENAME}")
         try:

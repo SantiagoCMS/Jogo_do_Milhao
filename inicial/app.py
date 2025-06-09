@@ -16,11 +16,8 @@ class LoginApp(ctk.CTk):
         self.criar_interface()
 
         base_dir = os.path.dirname(os.path.abspath(__file__))
-        self.usuarios_path = os.path.join(base_dir, "usuarios.json")
+        self.db_path = os.path.join(base_dir, "..", "jogo", "quiz_banco.db")
 
-        if not os.path.exists(self.usuarios_path):
-            with open(self.usuarios_path, "w") as f:
-                json.dump({}, f)
 
     def criar_interface(self):
         frame = ctk.CTkFrame(self, fg_color=self.fg_color)
@@ -77,15 +74,23 @@ class LoginApp(ctk.CTk):
         if not usuario or not senha:
             self.label_mensagem.configure(text="Preencha usuário e senha.", text_color="red")
             return
+        
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
+            cursor.execute("SELECT * FROM usuarios WHERE username = ? AND senha = ?", (usuario, senha)) # Consulta ao SQL para verificar se senha e usuário existem
+            resultado = cursor.fetchone()
 
-        with open(self.usuarios_path, "r") as f:
-            usuarios = json.load(f)
+            conn.close()
 
-        if usuario in usuarios and usuarios[usuario] == senha:
-            self.label_mensagem.configure(text=f"Login bem-sucedido, {usuario}!", text_color="green")
-            self.abrir_jogo(usuario)
-        else:
-            self.label_mensagem.configure(text="Usuário ou senha inválidos!", text_color="red")
+            if resultado:
+                self.label_mensagem.configure(text=f"Login bem-sucedido, {usuario}!", text_color="green")
+                self.abrir_jogo(usuario)
+            else:
+                self.label_mensagem.configure(text="Usuário ou senha inválidos!", text_color="red")
+        except Exception as e:
+            self.label_mensagem.configure(text=f"Erro ao conectar ao banco de dados: {str(e)}", text_color="red")
+
 
     def abrir_jogo(self, usuario):
         self.withdraw()

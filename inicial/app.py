@@ -145,21 +145,29 @@ class LoginApp(ctk.CTk):
             if not novo_usuario or not nova_senha:
                 label_mensagem_cadastro.configure(text="Usuário e senha não podem ser vazios.", text_color="red")
                 return
+            
+            try:
+                conn = sqlite3.connect(self.db_path)
+                cursor = conn.cursor()
 
-            with open(self.usuarios_path, "r") as f:
-                usuarios = json.load(f)
+                # Verifica se o usuário já existe
+                cursor.execute("SELECT * FROM usuarios WHERE username = ?", (novo_usuario,))
+                if cursor.fetchone():
+                    label_mensagem_cadastro.configure(text="Usuário já existe. Escolha outro.", text_color="red")
+                    conn.close()
+                    return
 
-            if novo_usuario in usuarios:
-                label_mensagem_cadastro.configure(text="Usuário já existe!", text_color="red")
-                return
+                # Insere o novo usuário
+                cursor.execute("INSERT INTO usuarios (username, senha) VALUES (?, ?)", (novo_usuario, nova_senha))
+                conn.commit()
+                conn.close()
 
-            usuarios[novo_usuario] = nova_senha
+                label_mensagem_cadastro.configure(text="Usuário {novo_usuario} cadastrado com sucesso!", text_color="green")
+                janela_cadastro.after(2000, janela_cadastro.destroy)  # Fecha a janela após 2 segundos
 
-            with open(self.usuarios_path, "w") as f:
-                json.dump(usuarios, f, indent=4)
+            except Exception as e:
+                label_mensagem_cadastro.configure(text=f"Erro ao cadastrar usuário: {str(e)}", text_color="red")
 
-            label_mensagem_cadastro.configure(text=f"Usuário {novo_usuario} cadastrado com sucesso!", text_color="green")
-            janela_cadastro.after(1500, janela_cadastro.destroy)
 
         salvar_button = ctk.CTkButton(
             janela_cadastro,

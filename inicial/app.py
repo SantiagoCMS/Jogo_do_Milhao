@@ -78,7 +78,7 @@ class LoginApp(ctk.CTk):
         try:
             conn = sqlite3.connect(self.db_path)
             cursor = conn.cursor()
-            cursor.execute("SELECT * FROM usuarios WHERE username = ? AND senha = ?", (usuario, senha)) # Consulta ao SQL para verificar se senha e usuário existem
+            cursor.execute("SELECT * FROM usuarios WHERE username = ? AND password = ?", (usuario, senha)) # Consulta ao SQL para verificar se senha e usuário existem
             resultado = cursor.fetchone()
 
             conn.close()
@@ -158,7 +158,7 @@ class LoginApp(ctk.CTk):
                     return
 
                 # Insere o novo usuário
-                cursor.execute("INSERT INTO usuarios (username, senha) VALUES (?, ?)", (novo_usuario, nova_senha))
+                cursor.execute("INSERT INTO usuarios (username, password) VALUES (?, ?)", (novo_usuario, nova_senha))
                 conn.commit()
                 conn.close()
 

@@ -64,6 +64,7 @@ def criar_ou_atualizar_banco():
         CREATE TABLE IF NOT EXISTS ranking (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             user_id INTEGER,
+            username TEXT NOT NULL,
             score INTEGER,
             FOREIGN KEY (user_id) REFERENCES usuarios (id)
         )

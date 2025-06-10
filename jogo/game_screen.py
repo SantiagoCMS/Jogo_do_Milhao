@@ -419,7 +419,7 @@ class GameScreen:
                                 with open(ranking_file, "r", encoding="utf-8") as f:
                                     ranking_data = json.load(f)
 
-                            current_player_name = "teste"
+                            current_player_name = "guardado"
                             ranking_data[current_player_name] = ranking_data.get(current_player_name, 0) + earned
                             with open(ranking_file, "w", encoding="utf-8") as f:
                                 json.dump(ranking_data, f, indent=2, ensure_ascii=False)

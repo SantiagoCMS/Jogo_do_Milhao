@@ -61,5 +61,4 @@ python main.py
 **Santiago Ciapina Martinez Salazar**
 **Juliano Galhardo de Oliveira**
 **Erik Kenji Sakura**
-**Eduardo Borges dos Santos Junior**
 **João Carlos Soares Sartorelli**

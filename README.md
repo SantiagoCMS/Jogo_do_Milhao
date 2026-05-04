@@ -58,7 +58,7 @@ python main.py
 ## 👤 Authors
 
 **Leonardo Alves Moreno**  
-**Santiago Ciapina Martinez Salazar**
-**Juliano Galhardo de Oliveira**
-**Erik Kenji Sakura**
+**Santiago Ciapina Martinez Salazar**  
+**Juliano Galhardo de Oliveira**  
+**Erik Kenji Sakura**  
 **João Carlos Soares Sartorelli**
